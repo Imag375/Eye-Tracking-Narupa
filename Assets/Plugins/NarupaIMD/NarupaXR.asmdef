@@ -1,0 +1,25 @@
+{
+    "name": "NarupaXR",
+    "references": [
+        "Narupa.Frontend",
+        "SteamVR",
+        "Unity.TextMeshPro",
+        "Narupa.Grpc",
+        "Narupa.Core",
+        "Narupa.Frame",
+        "Narupa.Visualisation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Essd.dll",
+        "Newtonsoft.Json.dll",
+        "Narupa.Protocol.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
